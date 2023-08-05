@@ -37,4 +37,6 @@ set(SOURCE_FILES ${SOURCE_FILES}
     ${CMAKE_CURRENT_SOURCE_DIR}/logitech_gpro.h
     ${CMAKE_CURRENT_SOURCE_DIR}/logitech_zone_wired.c
     ${CMAKE_CURRENT_SOURCE_DIR}/logitech_zone_wired.h
+    ${CMAKE_CURRENT_SOURCE_DIR}/razer_usb_soundcard.c
+    ${CMAKE_CURRENT_SOURCE_DIR}/razer_usb_soundcard.h
     PARENT_SCOPE)

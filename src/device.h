@@ -7,6 +7,7 @@
 #define VENDOR_LOGITECH    0x046d
 #define VENDOR_STEELSERIES 0x1038
 #define VENDOR_ROCCAT      0x1e7d
+#define VENDOR_RAZER       0x1532
 
 /// Convert given number to bitmask
 #define B(X) (1 << X)
